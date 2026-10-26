@@ -1,31 +1,16 @@
-<!--
-**gempact987-pixel/gempact987-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 # 👋 Hi, I'm Rahul Murmu
 
-Welcome to my GitHub profile! I'm a passionate developer exploring Full‑Stack Development, DevOps, Cloud, and modern tooling.
+Welcome to my GitHub profile! I'm a passionate developer exploring Full-Stack Development, DevOps, Cloud, and modern tooling.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full‑Stack Developer in progress
-* ☁️ Learning DevOps, Docker, CI/CD, Cloud
-* 🤖 Exploring AI, Automation, AIOps, and DevOps Monitoring Stacks
-* 🎯 Always building, experimenting, and improving
+- 💻 Full-Stack Developer in progress
+- ☁️ Learning DevOps, Docker, CI/CD, Cloud
+- 🤖 Exploring AI, Automation, AIOps, and DevOps Monitoring Stacks
+- 🎯 Always building, experimenting, and improving
 
 ---
 
@@ -89,25 +74,28 @@ Welcome to my GitHub profile! I'm a passionate developer exploring Full‑Stack 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gempact987-pixel&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmurmu-dev&theme=tokyonight" alt="Rahul's GitHub contribution streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gempact987-pixel&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulmurmu-dev&show_icons=true&theme=tokyonight" alt="Rahul's GitHub statistics" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gempact987-pixel&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmurmu-dev&layout=compact&theme=tokyonight" alt="Rahul's most used programming languages" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/gempact987-pixel/gempact987-pixel/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rahulmurmu-dev/rahulmurmu-dev/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🔗 Connect With Me
 
 <p>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+  <!-- Replace the URL below with your actual LinkedIn profile URL -->
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
