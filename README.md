@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring Full-Stack De
 
 <p>
   <!-- Replace the URL below with your actual LinkedIn profile URL -->
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/rahul-m-789ba9187/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
